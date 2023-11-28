@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;br.com.hallucinations.cm.excecao.sairException&apos; to &apos;SairException&apos;&#x0D;&#x0A;- Original project: &apos;campo-minado&apos;&#x0D;&#x0A;- Original element: &apos;br.com.hallucinations.cm.excecao.sairException&apos;&#x0D;&#x0A;- Renamed element: &apos;br.com.hallucinations.cm.excecao.SairException&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;sairException&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;br.com.hallucinations.cm.excecao{sairException.java[sairException" matchStrategy="1" name="SairException" qualified="false" references="true" similarDeclarations="false" stamp="1700531222587" textual="false" version="1.0"/>
+</session>

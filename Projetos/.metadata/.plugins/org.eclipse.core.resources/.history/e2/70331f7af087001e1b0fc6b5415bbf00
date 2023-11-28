@@ -1,0 +1,12 @@
+package br.com.hallucinations.cm.modelo;
+
+public class Tabuleiro {
+
+	private int linhas;
+	private int colunas; 
+	private int minas;
+	
+	private final List<Campo> campos = new ArraysList<>();
+	
+	
+}

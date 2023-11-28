@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
+    <fullyQualifiedTypeName name="br.com.hallucinations.cm.excecao.ExplosaoException"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+    <fullyQualifiedTypeName name="br.com.hallucinations.cm.modelo.Tabuleiro"/>
+    <fullyQualifiedTypeName name="br.com.hallucinations.cm.visao.TabuleiroConsole"/>
+    <fullyQualifiedTypeName name="br.com.hallucinations.cm.excecao.SairException"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+</qualifiedTypeNameHistroy>
