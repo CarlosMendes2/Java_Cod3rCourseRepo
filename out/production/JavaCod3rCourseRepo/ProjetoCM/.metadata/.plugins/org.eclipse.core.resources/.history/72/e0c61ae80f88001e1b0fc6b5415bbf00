@@ -1,0 +1,13 @@
+package br.com.hallucinations.cm.visao;
+
+import br.com.hallucinations.cm.modelo.Tabuleiro;
+
+public class TabuleiroConsole {
+	
+	private Tabuleiro tabuleiro;
+	
+	public TabuleiroConsole(Tabuleiro tabuleiro) {
+		this.tabuleiro = tabuleiro;
+	}
+
+}

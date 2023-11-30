@@ -1,0 +1,9 @@
+package br.com.hallucinations.cm.modelo;
+
+public class Campo {
+	
+	private final int linha;
+	private boolean minado; 
+	
+
+}
