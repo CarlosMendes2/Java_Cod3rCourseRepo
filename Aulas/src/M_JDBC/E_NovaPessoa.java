@@ -14,11 +14,10 @@ public class E_NovaPessoa {
 
         Connection conexao = C_FabricaConexao.getConexao();
 
-        String sql = "INSERT INTO pessoas (nome,codigo) VALUES(?,?)";
+        String sql = "INSERT INTO pessoas (nome) VALUES(?)";
         PreparedStatement stmt = conexao.prepareStatement(sql);
 
         stmt.setString(1,nome);
-        stmt.setInt(2,100);
 
         stmt.execute();
 
